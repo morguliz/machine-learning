@@ -1,6 +1,4 @@
 ### coding practice
-
-
 predictions = [-1, 1, -1, -1, 1]
 def majority_vote(predictions):
     vote_sum = sum(predictions)
